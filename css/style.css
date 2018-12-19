@@ -1,0 +1,373 @@
+body {
+	color: black;
+	margin: 0 10px 0 10px;
+	font-family: century gothic;
+}
+a {
+	text-decoration: none;
+}
+
+.main-header {
+	display: grid;
+    text-align: center; 
+	background-color: white;
+	margin: 0px;
+	margin-top:1px;
+	margin-bottom: 0px;
+	z-index: 1;
+	position: fixed;
+	text-decoration: none;
+}
+
+
+.button{
+	color: black;
+	border-right: 1px black solid;
+	text-decoration: none;
+
+}
+
+#main-menu {
+	padding: 10px;
+	margin: 0;
+	text-align: center;
+	list-style: none;    
+	display: grid;       
+	grid-gap: 10px;          
+	grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+	grid-template-rows: 1fr ;
+	background: white;
+	font-size: 13.5px;
+	text-decoration: none;
+}
+
+#first {
+	background-repeat: no-repeat;
+	background-image: url(../images/cccc.jpg);
+	height: 600px
+}
+
+.ange {
+	font-size: 50px;
+	color: black;
+	text-align: right;
+	color: black;
+}
+
+
+#resume {
+	font-size: 40px;
+	color: black;
+	text-align: center;
+	padding-top: 50px;
+}
+
+.resu {
+	font-size: 30px;
+	color: black;
+	text-align: center;
+	padding-top: 50px;
+}
+ 
+.r {
+	font-size: 30px;
+	color: black;
+	text-align: center;
+	padding-top: 50px;
+}
+
+.second {
+	font-size: 30px;
+	color: black;
+	padding-top: 50px;
+	text-decoration: none;
+	background-color: gray;
+}
+
+.ge {
+	font-size: 30px;
+	color: black;
+	text-align: center;
+	padding-top: 50px;
+	text-decoration: none;
+}
+
+.bore {
+	font-size: 30px;
+	color: black;
+	padding-top: 50px;
+	text-decoration: none;
+		background-color: gray;
+}
+
+
+
+.third {
+	font-size: 30px;
+	color: black;
+	padding-top: 30px;
+	background-color: maroon;
+	text-decoration: none;
+	
+}
+
+.thi {
+	font-size: 30px;
+	color: black;
+	text-align: center;
+	padding-top: 30px;
+	background-color: maroon;
+	text-decoration: none;
+}
+
+.bor {
+	font-size: 30px;
+	color: black;
+	padding-top: 30px;
+	background-color: maroon;
+	text-decoration: none;
+}
+
+#me {
+	font-size: 30px;
+	color: black;
+	padding-top: 30px;
+	background-color: gray;
+	text-decoration: none;
+}
+
+#ajr {
+	font-size: 30px;
+	color: black;
+	padding-top: 30px;
+	background-color: gray;
+	text-decoration: none;
+}
+
+#rivera{
+	font-size: 30px;
+	color: black;
+	padding-top: 30px;
+	background-color: gray;
+	text-decoration: none;
+}
+
+#background {
+	padding: 100px;
+	text-align: left;
+	color: black;
+	
+}
+
+#el {
+	padding: 50px;
+	font-size: 30px;
+	color: black;
+	text-align: center;
+	padding-top: 50px;
+	background-color: maroon;
+}
+
+#ge {
+	font-size: 30px;
+	color: black;
+	padding-top: 0px;
+	padding:50px
+}
+
+#high {
+	padding: 50px;
+	text-align: left;
+	text-align: center;
+	color: black;
+	
+}
+
+#gea {
+	font-size: 30px;
+	color: black;
+	padding-top: 0px;
+	background-color: maroon;
+	
+}
+
+#col {
+	padding: 10px;
+	text-align: left;
+	text-align: center;
+}
+
+#ger {
+	font-size: 30px;
+	color: black;
+	padding-top: 0px;
+	background-color: maroon;
+
+}
+
+.fourth {
+	font-size: 30px;
+	color: black;
+	padding-top: 10px;
+	text-align: left;
+	padding: 0px;
+	background-color: gray;
+	margin: 10px;
+}
+
+.la {
+	font-size: 30px;
+	color: black;
+	padding-top: 10px;
+	text-align: left;
+	padding: 0px;
+	margin: 0x;
+	background-color: gray;
+}
+
+.border {
+	font-size: 50px;
+	color: black;
+	padding-top: 0px;
+	text-align: center;
+	margin: 10x;
+	padding: 0px;
+	background-color: gray;
+}
+
+
+#skills {
+	padding: 30px;
+	text-align: left;
+	padding: 0px;
+	margin: 10x;
+}
+
+#one {
+	font-size: 30px;
+	color: black;
+	padding-top: 30px;
+	text-align: left;
+	background-color: gray;
+	padding: 0px;
+	margin: 10x;
+}
+
+#sk {
+	font-size: 30px;
+	color: black;
+	padding-top: 30px;
+	text-align: center;
+	background-color: maroon;
+	padding: 0px;
+	margin: 10x;
+}
+
+#two {
+	font-size: 30px;
+	color: black;
+	padding-top: 30px;
+	text-align: left;
+	background-color: gray;
+	padding: 0px;
+	margin: 10x;
+}
+
+#skm {
+	font-size: 30px;
+	color: black;
+	padding-top: 30px;
+	text-align: center;
+	background-color: maroon;
+	padding: 0px;
+	margin: 10x;
+}
+
+.fifth {
+	font-size: 30px;
+	color: black;
+	padding-top: 10px;
+	text-align: left;
+	padding: 0px;
+	margin: 10x;
+	background-color: gray;
+	z-index: 0;
+}
+.ab {
+	font-size: 30px;
+	color: black;
+	padding-top: 0px;
+	background-color: gray;
+	padding: 0px;
+	margin: 0x;
+}
+
+#bor {
+	font-size: 50px;
+	color: black;
+	padding-top: 0px;
+	background-color: maroon;
+	padding: 0px;
+	margin: 0x;
+	text-align: center;
+}
+
+#exper {
+	padding: 0px;
+	text-align: center;
+	font-size: 30px;
+	background-color: maroon;
+	margin: 0x;
+	padding-top: 0px;
+}
+
+#bord {
+	padding: 0px;
+	text-align: center;
+	font-size: 30px;
+	background-color: maroon;
+	margin: 0x;
+	padding-top: 0px;
+}
+
+#exp {
+	padding: 0px;
+	text-align: center;
+	font-size: 30px;
+	background-color: maroon;
+	margin: 0x;
+	padding-top: 0px;
+}
+
+.footer {
+	font-size: 30px;
+	color: maroon;
+	padding-top:0px;
+	padding: 20px;
+	text-align: center;
+	background-image: url(../images/aaa.jpg);
+	background-repeat: none;
+}
+
+.web {
+	font-size: 20px;
+	color: maroon;
+	padding-top: 50px;
+	padding: 100px;
+	text-align: center;
+	background-repeat: none;
+}
+
+.lin {
+	font-size: 20px;
+	color: maroon;
+	padding-top: 0px;
+	padding: 10px;
+	text-align: center;
+	background-repeat: none;
+}
+
+
+
+
+
